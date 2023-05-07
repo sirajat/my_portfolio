@@ -1,0 +1,850 @@
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (max-width: 1024px) {
+    .navbar img{
+        height: 50px;
+    }
+    .hi_there{
+        font-size: 40px;
+        }
+    .am_siraj{
+        font-size: 22px;
+    }
+    .iconclass{
+        height: 30px !important;
+        width: 30px !important;
+        font-size: 18px !important;
+        line-height: 30px !important;
+    
+    }
+    .pad-top_bottm {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    #about{
+        padding-top: 0px;
+    }
+    .section_top_pad{
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .about_me{
+        font-size: 20px;
+    }
+    .about_para{
+        font-size: 11px;
+        text-align: justify;
+    }
+    .hello_iam{
+        font-size: 18px;
+    }
+    .siraj{
+        font-size: 20px;
+    }
+    .respons-marging{
+        margin-top: 20px;
+    }
+    .subtitile_hello_iam{
+        font-size: 14px;
+    }
+    #typing-text{
+        font-size: 12px;
+        text-align: justify;
+    }
+    .about_me_contact{
+        padding-top: 0px;
+    }
+    .res_size{
+        font-size: 14px;
+    }
+    .download-btn{
+        width: 120px;
+        font-size: 10px;
+        padding: 10px 0;
+    }
+    .projectFactsWrap .item i{
+        font-size: 25px;
+    }
+    .projectFactsWrap .item p.number{
+        font-size: 25px;
+    }
+    .cout_para{
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .education_titile{
+        font-size: 18px;
+    }
+    #education{
+        padding-top: 0px;
+    }
+    .education_section{
+        margin-top: 25px;
+    }
+    .education-card.active .icon{
+        width: 50px;
+        height: 50px;
+        font-size: 25px;
+    }
+    .coure___titile{
+        font-size: 20px;
+    }
+    .sub__course{
+        font-size: 15px;
+    }
+    .sub_school{
+        font-size: 10px;
+    }
+    .content_margining{
+        margin-bottom: 75px;
+    }
+    .content_margining2{
+        margin-bottom: 100px;
+    }
+    .education-card.active .label{
+        font-size: 40px;
+    }
+    .background___bg{
+        padding-bottom: 50px;
+    }
+    #skill{
+        padding-top: 0px;
+    }
+    .skill-per{
+        height: 4px; 
+    }
+    .skill-bar{
+        height: 4px;
+    }
+    .skill-name{
+        font-size: 13px;
+    }
+    #project{
+        padding-top: 0px;
+    }
+    #contact{
+        padding-top: 0px;
+    }
+    .education_section{
+        margin-bottom: 0px;
+    }
+    .feedback-input{
+        padding: 13px 0px 13px 0px;
+        font-size: 14px;
+        border-bottom: 1px solid #B3005E;
+    }
+    .map_area{
+        margin-top: 0px;
+    }
+    .button_input{
+        width: 200px;
+    }
+    .footer{
+        padding: 5px;
+    }
+    .education-card{
+        height: 80%;
+    }
+    
+ }
+
+
+
+
+
+
+
+
+
+
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (max-width: 768px) { 
+    .navbar img{
+        height: 50px;
+    }
+    .hi_there{
+        font-size: 40px;
+        }
+    .am_siraj{
+        font-size: 22px;
+    }
+    .iconclass{
+        height: 30px !important;
+        width: 30px !important;
+        font-size: 18px !important;
+        line-height: 30px !important;
+    
+    }
+    .pad-top_bottm {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    #about{
+        padding-top: 0px;
+    }
+    .section_top_pad{
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .about_me{
+        font-size: 20px;
+    }
+    .about_para{
+        font-size: 11px;
+        text-align: justify;
+    }
+    .hello_iam{
+        font-size: 18px;
+    }
+    .siraj{
+        font-size: 20px;
+    }
+    .respons-marging{
+        margin-top: 20px;
+    }
+    .subtitile_hello_iam{
+        font-size: 14px;
+    }
+    #typing-text{
+        font-size: 12px;
+        text-align: justify;
+    }
+    .about_me_contact{
+        padding-top: 0px;
+    }
+    .res_size{
+        font-size: 14px;
+    }
+    .download-btn{
+        width: 120px;
+        font-size: 10px;
+        padding: 10px 0;
+    }
+    .projectFactsWrap .item i{
+        font-size: 25px;
+    }
+    .projectFactsWrap .item p.number{
+        font-size: 25px;
+    }
+    .cout_para{
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .education_titile{
+        font-size: 18px;
+    }
+    #education{
+        padding-top: 0px;
+    }
+    .education_section{
+        margin-top: 25px;
+    }
+    .education-card.active .icon{
+        width: 50px;
+        height: 50px;
+        font-size: 25px;
+    }
+    .coure___titile{
+        font-size: 20px;
+    }
+    .sub__course{
+        font-size: 15px;
+    }
+    .sub_school{
+        font-size: 10px;
+    }
+    .content_margining{
+        margin-bottom: 75px;
+    }
+    .content_margining2{
+        margin-bottom: 100px;
+    }
+    .education-card.active .label{
+        font-size: 40px;
+    }
+    .background___bg{
+        padding-bottom: 50px;
+    }
+    #skill{
+        padding-top: 0px;
+    }
+    .skill-per{
+        height: 4px; 
+    }
+    .skill-bar{
+        height: 4px;
+    }
+    .skill-name{
+        font-size: 13px;
+    }
+    #project{
+        padding-top: 0px;
+    }
+    #contact{
+        padding-top: 0px;
+    }
+    .education_section{
+        margin-bottom: 0px;
+    }
+    .feedback-input{
+        padding: 13px 0px 13px 0px;
+        font-size: 14px;
+        border-bottom: 1px solid #B3005E;
+    }
+    .map_area{
+        margin-top: 0px;
+    }
+    .button_input{
+        width: 235px !important ;
+    }
+    .footer{
+        padding: 5px;
+    }
+    .education-card{
+        height: 70%;
+    }
+    .button_input{
+        font-size: 12px;
+    }
+    .map_area{
+        display: block !important;
+    }
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* // Large devices (desktops, 992px and up) */
+@media (max-width: 640px) {
+    .navbar img{
+        height: 50px;
+    }
+    .hi_there{
+        font-size: 40px;
+        }
+    .am_siraj{
+        font-size: 22px;
+    }
+    .iconclass{
+        height: 30px !important;
+        width: 30px !important;
+        font-size: 18px !important;
+        line-height: 30px !important;
+    
+    }
+    .pad-top_bottm {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    #about{
+        padding-top: 0px;
+    }
+    .section_top_pad{
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .about_me{
+        font-size: 20px;
+    }
+    .about_para{
+        font-size: 11px;
+        text-align: justify;
+    }
+    .hello_iam{
+        font-size: 18px;
+    }
+    .siraj{
+        font-size: 20px;
+    }
+    .respons-marging{
+        margin-top: 20px;
+    }
+    .subtitile_hello_iam{
+        font-size: 14px;
+    }
+    #typing-text{
+        font-size: 12px;
+        text-align: justify;
+    }
+    .about_me_contact{
+        padding-top: 0px;
+    }
+    .res_size{
+        font-size: 14px;
+    }
+    .download-btn{
+        width: 120px;
+        font-size: 10px;
+        padding: 10px 0;
+    }
+    .projectFactsWrap .item i{
+        font-size: 25px;
+    }
+    .projectFactsWrap .item p.number{
+        font-size: 25px;
+    }
+    .cout_para{
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .education_titile{
+        font-size: 18px;
+    }
+    #education{
+        padding-top: 0px;
+    }
+    .education_section{
+        margin-top: 25px;
+    }
+    .education-card.active .icon{
+        width: 50px;
+        height: 50px;
+        font-size: 25px;
+    }
+    .coure___titile{
+        font-size: 20px;
+    }
+    .sub__course{
+        font-size: 15px;
+    }
+    .sub_school{
+        font-size: 10px;
+    }
+    .content_margining{
+        margin-bottom: 75px;
+    }
+    .content_margining2{
+        margin-bottom: 100px;
+    }
+    .education-card.active .label{
+        font-size: 40px;
+    }
+    .background___bg{
+        padding-bottom: 50px;
+    }
+    #skill{
+        padding-top: 0px;
+    }
+    .skill-per{
+        height: 4px; 
+    }
+    .skill-bar{
+        height: 4px;
+    }
+    .skill-name{
+        font-size: 13px;
+    }
+    #project{
+        padding-top: 0px;
+    }
+    #contact{
+        padding-top: 0px;
+    }
+    .education_section{
+        margin-bottom: 0px;
+    }
+    .feedback-input{
+        padding: 13px 0px 13px 0px;
+        font-size: 14px;
+        border-bottom: 1px solid #B3005E;
+    }
+    .map_area{
+        margin-top: 0px;
+    }
+    .button_input{
+        width: 235px;
+    }
+    .footer{
+        padding: 5px;
+    }
+    .button_input{
+        font-size: 12px;
+    }
+    .map_area{
+        display: none !important;
+    }
+    
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* // Medium devices (tablets, 768px and up) */
+@media (max-width: 414px) {
+    .navbar img{
+        height: 50px;
+    }
+    .hi_there{
+        font-size: 40px;
+        }
+    .am_siraj{
+        font-size: 22px;
+    }
+    .iconclass{
+        height: 30px !important;
+        width: 30px !important;
+        font-size: 18px !important;
+        line-height: 30px !important;
+    
+    }
+    .pad-top_bottm {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    #about{
+        padding-top: 0px;
+    }
+    .section_top_pad{
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .about_me{
+        font-size: 20px;
+    }
+    .about_para{
+        font-size: 11px;
+        text-align: justify;
+    }
+    .hello_iam{
+        font-size: 18px;
+    }
+    .siraj{
+        font-size: 20px;
+    }
+    .respons-marging{
+        margin-top: 20px;
+    }
+    .subtitile_hello_iam{
+        font-size: 14px;
+    }
+    #typing-text{
+        font-size: 12px;
+        text-align: justify;
+    }
+    .about_me_contact{
+        padding-top: 0px;
+    }
+    .res_size{
+        font-size: 14px;
+    }
+    .download-btn{
+        width: 120px;
+        font-size: 10px;
+        padding: 10px 0;
+    }
+    .projectFactsWrap .item i{
+        font-size: 25px;
+    }
+    .projectFactsWrap .item p.number{
+        font-size: 25px;
+    }
+    .cout_para{
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .education_titile{
+        font-size: 18px;
+    }
+    #education{
+        padding-top: 0px;
+    }
+    .education_section{
+        margin-top: 25px;
+    }
+    .education-card.active .icon{
+        width: 50px;
+        height: 50px;
+        font-size: 25px;
+    }
+    .coure___titile{
+        font-size: 20px;
+    }
+    .sub__course{
+        font-size: 15px;
+    }
+    .sub_school{
+        font-size: 10px;
+    }
+    .content_margining{
+        margin-bottom: 75px;
+    }
+    .content_margining2{
+        margin-bottom: 100px;
+    }
+    .education-card.active .label{
+        font-size: 40px;
+    }
+    .background___bg{
+        padding-bottom: 50px;
+    }
+    #skill{
+        padding-top: 0px;
+    }
+    .skill-per{
+        height: 4px; 
+    }
+    .skill-bar{
+        height: 4px;
+    }
+    .skill-name{
+        font-size: 13px;
+    }
+    #project{
+        padding-top: 0px;
+    }
+    #contact{
+        padding-top: 0px;
+    }
+    .education_section{
+        margin-bottom: 0px;
+    }
+    .feedback-input{
+        padding: 13px 0px 13px 0px;
+        font-size: 14px;
+        border-bottom: 1px solid #B3005E;
+    }
+    .map_area{
+        margin-top: 0px;
+    }
+    .button_input{
+        width: 240px;
+    }
+    .footer{
+        padding: 5px;
+    }
+    .button_input{
+        font-size: 12px;
+    }
+    .map_area{
+        display: none !important;
+    }
+    .contact_icon_2{
+        height: 40px;
+        width: 40px;
+        font-size: 17px;
+        line-height: 42px;
+    }
+    .contact_icon{
+        height: 40px;
+        width: 40px;
+        font-size: 17px;
+        line-height: 42px;
+    }
+    .floating_btn{
+        left: 20px;
+    }
+    
+ }
+
+
+
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (max-width: 360px) { 
+.navbar img{
+    height: 50px;
+}
+.hi_there{
+    font-size: 40px;
+    }
+.am_siraj{
+    font-size: 22px;
+}
+.iconclass{
+    height: 30px !important;
+    width: 30px !important;
+    font-size: 18px !important;
+    line-height: 30px !important;
+
+}
+.pad-top_bottm {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+#about{
+    padding-top: 0px;
+}
+.section_top_pad{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.about_me{
+    font-size: 20px;
+}
+.about_para{
+    font-size: 11px;
+    text-align: justify;
+}
+.hello_iam{
+    font-size: 18px;
+}
+.siraj{
+    font-size: 20px;
+}
+.respons-marging{
+    margin-top: 20px;
+}
+.subtitile_hello_iam{
+    font-size: 14px;
+}
+#typing-text{
+    font-size: 12px;
+    text-align: justify;
+}
+.about_me_contact{
+    padding-top: 0px;
+}
+.res_size{
+    font-size: 14px;
+}
+.download-btn{
+    width: 120px;
+    font-size: 10px;
+    padding: 10px 0;
+}
+.projectFactsWrap .item i{
+    font-size: 25px;
+}
+.projectFactsWrap .item p.number{
+    font-size: 25px;
+}
+.cout_para{
+    font-size: 14px;
+    font-weight: bold;
+}
+.education_titile{
+    font-size: 18px;
+}
+#education{
+    padding-top: 0px;
+}
+.education_section{
+    margin-top: 25px;
+}
+.education-card.active .icon{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+}
+.coure___titile{
+    font-size: 20px;
+}
+.sub__course{
+    font-size: 15px;
+}
+.sub_school{
+    font-size: 10px;
+}
+.content_margining{
+    margin-bottom: 75px;
+}
+.content_margining2{
+    margin-bottom: 100px;
+}
+.education-card.active .label{
+    font-size: 40px;
+}
+.background___bg{
+    padding-bottom: 50px;
+}
+#skill{
+    padding-top: 0px;
+}
+.skill-per{
+    height: 4px; 
+}
+.skill-bar{
+    height: 4px;
+}
+.skill-name{
+    font-size: 13px;
+}
+#project{
+    padding-top: 0px;
+}
+#contact{
+    padding-top: 0px;
+}
+.education_section{
+    margin-bottom: 0px;
+}
+.feedback-input{
+    padding: 13px 0px 13px 0px;
+    font-size: 14px;
+    border-bottom: 1px solid #B3005E;
+}
+.map_area{
+    margin-top: 0px;
+}
+.button_input{
+    width: 235px;
+}
+.footer{
+    padding: 5px;
+}
+.button_input{
+    font-size: 12px;
+}
+.map_area{
+    display: none !important;
+}
+.contact_icon_2{
+    height: 40px;
+    width: 40px;
+    font-size: 17px;
+    line-height: 42px;
+}
+.contact_icon{
+    height: 40px;
+    width: 40px;
+    font-size: 17px;
+    line-height: 42px;
+}
+.floating_btn{
+    left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+
+
